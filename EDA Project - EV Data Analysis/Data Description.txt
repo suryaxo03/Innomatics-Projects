@@ -1,0 +1,20 @@
+DATA DESCRIPTION :
+ 1.VIN (1-10) -> The vehicle identification number.
+ 2.County -> Geographical subdivision within a state.
+ 3.City -> City where the vehicle is registered or located.
+ 4.State -> The state where the vehicle is located.
+ 5.Postal Code -> Postal code of the vehicle's location.
+ 6.Model Year->  The manufacturing year of the vehicle.
+ 7.Make -> The manufacturer of the vehicle (e.g., Tesla, Nissan, etc.).
+ 8.Model -> The specific model of the vehicle (e.g., Tesla Model S).
+ 9.Electric Vehicle Type->  The type of EV (e.g., Battery Electric Vehicle (BEV), Plug-in Hybrid Electric Vehicle (PHEV)).
+ 10.CAFV Eligibility -> Whether the vehicle is eligible for Clean Alternative Fuel Vehicle (CAFV) benefits.
+ 11.Electric Range -> The range the vehicle can travel on electric power (in miles).
+ 12.Base MSRP -> The manufacturer’s suggested retail price (initial cost of the vehicle).
+ 13.Legislative District -> The legislative district where the vehicle is registered.
+ 14.DOL Vehicle ID -> A unique ID assigned to the vehicle by the Department of Licensing.
+ 15.Vehicle Location -> Geographical coordinates of the vehicle.
+ 16.Electric Utility -> The electric utility provider for the area.
+ 17.2020 Census Tract-> A geographical area defined by the Census Bureau.
+
+Credits Hemanshi
