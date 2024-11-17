@@ -1,7 +1,7 @@
 # Overview
 This is a simple GenAI Chatbot where it can input a Python script and look for potential bugs and give feedback and suggestions for fixes with accurate bug reports and code snippets.
 
-#How to get a GoogleAI API key?
+# How to get a GoogleAI API key?
 1) Go to console.cloud.google.com
 2) If you are new to Google Cloud, you can see a "Select Project" dropdown on the top left near the Google Cloud logo, select that
 3) Click on New Project and give it a name of your choice and click on Create
