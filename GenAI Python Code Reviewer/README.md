@@ -15,5 +15,5 @@ This is a simple GenAI Chatbot where it can input a Python script and look for p
 11) You can use this key to build your GenAI applications
 
 # Code files info
-app.py contains the code to a Chatbot-themed application, similar to that of ChatGPT. It can store the history and can be used to bring back the previous if asked
+app.py contains the code to a Chatbot-themed application, similar to that of ChatGPT. It can store the history and can be used to bring back the previous if asked\
 app_review.py contains an updated code with much better interface and the with separate input and output tabs, anc the input can be written seamlessly too, yet the history won't be saved in this
