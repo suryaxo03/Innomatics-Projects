@@ -1,5 +1,5 @@
 # Overview
-This is a simple GenAI Chatbot where it can input a Python script and look for potential bugs and give feedback and suggestions for fixes with accurate bug reports and code snippets.\
+This is a simple GenAI application where it can input a Python script and look for potential bugs and give feedback and suggestions for fixes with accurate bug reports and code snippets.\
 The interface is built using streamlit for now, for ease of implementation and immediate updation of code in the repo. Soon I will be doing the same in Flask too, so stay tuned :)
 
 # How to get a GoogleAI API key?
