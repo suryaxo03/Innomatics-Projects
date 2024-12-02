@@ -1,0 +1,7 @@
+streamlit==1.25.0  # Ensure the latest stable Streamlit version
+pytesseract==0.3.10  # Python wrapper for Tesseract
+Pillow==10.0.0  # For image processing
+pyttsx3==2.90  # Text-to-speech conversion
+google-generative-ai==0.1.0  # For Google AI API
+python-dotenv==1.0.0  # For environment variable management
+base64==1.0.1  # For audio encoding (optional, not always needed explicitly)
