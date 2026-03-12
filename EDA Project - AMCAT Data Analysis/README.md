@@ -28,4 +28,4 @@ The AMCAT dataset serves as a valuable resource for researchers and educators in
 Credits Hemanshi
 
 ### PS: If the code does not load in GitHub, kindly download the file or clone the repository to view it or use the drive link below to view. Thanks! 
-[AMCAT_EDA][https://drive.google.com/file/d/1NjJvgiPcKL1n3Cv6-8-CYC63VY-4laFG/view?usp=drive_link]
+[AMCAT_EDA](https://drive.google.com/file/d/1NjJvgiPcKL1n3Cv6-8-CYC63VY-4laFG/view?usp=drive_link)
